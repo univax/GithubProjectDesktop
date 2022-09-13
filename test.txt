@@ -1,1 +1,3 @@
 test
+
+yeni commit atıp githuba push etmeyi deneyelim.
